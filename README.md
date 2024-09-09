@@ -2,7 +2,9 @@
 
 This Python web scraper extracts phone details from the [MySmartPrice](https://www.mysmartprice.com/mobile/) website. It uses Selenium to automate browser interactions, BeautifulSoup to parse HTML, and OpenPyxl to save the extracted data into an Excel file.
 
+
 ## Features
+
 
 - **Search for Phones**: Input a phone name and search for options on MySmartPrice.
 - **Select a Phone**: Choose a phone from the search results.
