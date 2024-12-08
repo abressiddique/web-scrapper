@@ -8,6 +8,7 @@ import requests
 import sys
 
 
+
 # the website have changed the source code have to do some modification with scrappping 
 def scrape_phone_options(phone_name):
     chrome_options = webdriver.ChromeOptions()
