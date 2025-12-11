@@ -23,5 +23,10 @@ This Python web scraper extracts phone details from the [MySmartPrice](https://w
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-url>
+``` bash
+# clone
+git clone https://github.com/abressiddique/web-scrapper.git
+
+# execute the python script
+python Scrapper(Retrieval).py
+```
